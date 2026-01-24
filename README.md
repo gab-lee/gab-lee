@@ -4,16 +4,21 @@
 - Dec 25: [Tic Tac Toe](https://github.com/gab-lee/TicTacToe) #C
 - Sep 23: [QR Code generator](https://github.com/gab-lee/QrMaker) #Javscript
 
-Programmes:
+**Programmes:**
 
 - [42SG Piscine Mar 26 Cohort](https://github.com/gab-lee/42SG_Piscine)
 
-Ideas:
+**Next:**
+
+- simple jumping Pygame (chrome dino one)
+
+**Ideas:**
 
 - very fast reader
 - Miles Planner: A visualisation tool to help you choose which airline to fly and when to fly
 - Option Portfolio: In addition to strategy building, help to build pivots
 - Webscrapper for startups
+- AI neural network
 
 Icebox
 
