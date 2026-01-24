@@ -1,7 +1,8 @@
-Monthly Projects
-Jan 25: [Todo list](https://github.com/gab-lee/todo) #C
-Dec 25: [Tic Tac Toe](https://github.com/gab-lee/TicTacToe) #C
-Sep 23: [QR Code generator](https://docs.github.com/en/pages) #Javscript
+# Monthly Projects
+
+- Jan 25: [Todo list](https://github.com/gab-lee/todo) #C
+- Dec 25: [Tic Tac Toe](https://github.com/gab-lee/TicTacToe) #C
+- Sep 23: [QR Code generator](https://docs.github.com/en/pages) #Javscript
 
 Programmes:
 
