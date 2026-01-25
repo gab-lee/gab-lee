@@ -1,5 +1,6 @@
 **Monthly Projects**
 
+- Feb 25: [Cat Jump Jump](https://github.com/gab-lee/Cat-Jump-Jump) (In progress)
 - Jan 25: [Todo list](https://github.com/gab-lee/todo) #C
 - Dec 25: [Tic Tac Toe](https://github.com/gab-lee/TicTacToe) #C
 - Sep 23: [QR Code generator](https://github.com/gab-lee/QrMaker) #Javscript
