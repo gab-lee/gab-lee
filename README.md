@@ -1,4 +1,4 @@
-**Monthly Projects**
+**Mini Monthly Projects**
 
 - Feb 25: [Cat Jump Jump](https://github.com/gab-lee/Cat-Jump-Jump) (In progress)
 - Jan 25: [Todo list](https://github.com/gab-lee/todo) #C
