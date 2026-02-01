@@ -1,3 +1,8 @@
+## Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+
 **Mini Monthly Projects**
 
 - Feb 25: [Cat Jump Jump](https://github.com/gab-lee/Cat-Jump-Jump) (In progress)
