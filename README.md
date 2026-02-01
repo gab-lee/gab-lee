@@ -13,7 +13,7 @@
 
 **Programmes:**
 
-- [42SG Piscine May 26 Cohort](https://github.com/gab-lee/42SG_Piscine) [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)](https://en.cppreference.com/w/c)
+- [42SG Piscine May 26 Cohort](https://github.com/gab-lee/42SG_Piscine) 
 
 **Next:**
 
