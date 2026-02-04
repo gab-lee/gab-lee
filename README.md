@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)](https://en.cppreference.com/w/c)
 
-**Activ Projects**
+**Active Projects**
 - [Pet go toilet](https://github.com/gab-lee/pet_go_toilet_public) (In progress) (Collab with small Singapore business [Fuji Haven](https://fujihaven.com))
 
 **Mini Monthly Projects**
@@ -15,7 +15,9 @@
 
 **Programmes:**
 
-- [42SG Piscine May 26 Cohort](https://github.com/gab-lee/42SG_Piscine) 
+- [42SG Piscine May 26 Cohort](https://github.com/gab-lee/42SG_Piscine)
+
+**Leetcode Progress**
 
 **Next:**
 
