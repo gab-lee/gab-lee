@@ -3,6 +3,8 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)](https://en.cppreference.com/w/c)
 
+**Activ Projects**
+- [Pet go toilet](https://github.com/gab-lee/pet_go_toilet_public) (In progress) (Collab with small Singapore business [Fuji Haven](https://fujihaven.com))
 
 **Mini Monthly Projects**
 
