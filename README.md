@@ -19,3 +19,6 @@
 - [42SG Piscine May 26 Cohort](https://github.com/gab-lee/42SG_Piscine)
 
 **Leetcode Progress**
+Last updated: 24 Feb 2025
+<img width="730" height="200" alt="image" src="https://github.com/user-attachments/assets/ac2279db-70ae-4f16-8239-1665f910a22a" />
+
