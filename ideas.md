@@ -1,6 +1,3 @@
-**Next:**
-- What we have watched Telegram bot
-
 **Ideas:**
 
 - very fast reader
@@ -8,6 +5,8 @@
 - Option Portfolio: In addition to strategy building, help to build pivots
 - Webscrapper for startups
 - AI neural network
+- Game like skul but with fishes 
+-> fish that can swam correlates to health
 
 Icebox
 
