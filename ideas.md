@@ -7,6 +7,7 @@
 - AI neural network
 - Game like skul but with fishes 
 -> fish that can swam correlates to health
+- IOS app that kinds helps you eat intuitively (servings of fruits/fried food)
 
 Icebox
 
