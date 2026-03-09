@@ -9,6 +9,7 @@
 
 **Mini Monthly Projects**
 
+- [Next Month] Apr 25: [Crow](https://github.com/gab-lee/Crow): IOS app that helps you remember what you have watched
 - [Next Month] Apr 25: [boxboxbox](https://github.com/gab-lee/boxboxbox): Using ML to predict winner for F1 races 
 - Mar 25: [Rihanna](https://github.com/gab-lee/Rihanna) (In Progress): IOS Weather Widget
 - Mar 25: [Chores Monkey](https://github.com/gab-lee/Chores-Monkey) (In Progress): Python todo list
